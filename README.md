@@ -36,8 +36,8 @@ The major components used in the system include:
 - Pipes and connections
 - Control and electrical components
 ## project Model
-![project Mode]
-(./IMG-20260702-WA0039.jpg)
+![project Mode](./
+IMG-20260702-WA0039.jpg)
 
 ## Working Principle
 
