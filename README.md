@@ -37,7 +37,7 @@ The major components used in the system include:
 - Control and electrical components
 ## project Model
 ![project Mode]
-(IMG-20260702-WA0039.jpg)
+(./IMG-20260702-WA0039.jpg)
 
 ## Working Principle
 
