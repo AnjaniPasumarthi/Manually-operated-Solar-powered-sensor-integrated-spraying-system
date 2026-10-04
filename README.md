@@ -35,6 +35,9 @@ The major components used in the system include:
 - Supporting frame
 - Pipes and connections
 - Control and electrical components
+## project Model
+![project Mode]
+(IMG-20260702-WA0039.jpg)
 
 ## Working Principle
 
